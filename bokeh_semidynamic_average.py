@@ -9,7 +9,7 @@ def datetime(x):
     return np.array(x, dtype=np.datetime64)
 
 
-data = pd.read_csv("test.csv")
+data = pd.read_csv("car_ad_edited.csv")
 
 aapl = np.array(data['Petrol'])
 aapl_dates = np.array(data['Year'], dtype=np.datetime64)
