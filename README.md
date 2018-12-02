@@ -1,14 +1,10 @@
 # Graduation-Project
 Sabanci University ENS491/92 Graduation Project (Sep. 2018 - Jun. 2019)
+-----------------------------------------------------------------------
 
-
-#######################################################################
-###-----------------------------------------------------------------###
-###------------Cognitive Bias in Visual Analytics Systems-----------###
-###----------------------Project Number: #486-----------------------###
-###------------------Supervisor: Selim Balcısoy---------------------###
-###-----------------------------------------------------------------###
-#######################################################################
+Project Title: Cognitive Bias in Visual Analytics Systems
+Project Number: #486
+Supervisor: Selim Balcısoy
 
 
 Abstract:
@@ -25,6 +21,9 @@ the effects of cognitive bias in a visual analytical system is yet to be explore
 Group Members:
 --------------
 Atilla Alpay Nalçacı
+
 Dilara Girgin
+
 Semih Balkı
+
 Fatih Talay
