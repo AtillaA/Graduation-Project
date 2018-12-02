@@ -3,7 +3,9 @@ Sabanci University ENS491/92 Graduation Project (Sep. 2018 - Jun. 2019)
 -----------------------------------------------------------------------
 
 Project Title: Cognitive Bias in Visual Analytics Systems
+
 Project Number: #486
+
 Supervisor: Selim Balcısoy
 
 
